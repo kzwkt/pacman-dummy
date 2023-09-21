@@ -2,7 +2,7 @@
 
 cat PKGBUILD 
 pkgname='pkgname'
-pkgver=0.1
+pkgver=99.1
 pkgrel=1
 arch=(any)
 provides=('pkgnae') 
